@@ -27,7 +27,7 @@ export default function Main() {
     <div className='pt-14 w-full flex flex-col items-center'>
       <section className='w-full px-4 md:px-12 pt-16 flex flex-col items-center gap-6 graph-paper-primary'>
         <div className='font-bold text-center'>
-          <h1 className='text-5xl md:text-6xl font-extrabold'>磊记拾微封面生成器</h1>
+          <h1 className='text-5xl md:text-6xl font-extrabold'>磊记拾微封面</h1>
           <h2 className='text-3xl md:text-4xl font-bold mt-4'>
             一个 <span className='underline decoration-wavy decoration-red-400 underline-offset-6'>免费、漂亮</span> 的{' '}
             <span className='text-primary'>封面生成器</span>
