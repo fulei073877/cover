@@ -11,7 +11,7 @@ export default function Head({ className }: { className?: string }) {
     <header className='h-14 fixed border-b top-0 z-40 w-full bg-white shadow-xs'>
       <div className={`h-full px-8 flex justify-between items-center ${className}`}>
         <Link className='h-full flex items-center cursor-pointer' href='/'>
-          <Image src='/logo.png' alt='logo' width={28} height={28} priority />
+          <Image src='https://dh.870507.xyz/uploads/2026/5/26/5835cc31d4cf3cf8815f1ae7e2ba746c.png' alt='logo' width={28} height={28} priority />
           <div className='text-xl ml-2 font-bold font-mono text-primary'>磊记拾微</div>
         </Link>
         <div className='flex-1 flex items-center justify-between'>
