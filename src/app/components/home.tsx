@@ -245,8 +245,8 @@ export default function Main() {
       <footer className='w-full px-4 md:px-12 py-12 flex flex-col items-center gap-4'>
         <p>
           Copyright © 2025{new Date().getFullYear() === 2025 ? '' : '-' + new Date().getFullYear()}
-          <a className='font-bold text-primary ml-2' target='_blank' href='https://note.weizwz.com/'>
-            weizwz
+          <a className='font-bold text-primary ml-2' target='_blank' href='https://blog.870507.xyz/'>
+            磊记拾微
           </a>
         </p>
         <div className='flex flex-wrap items-center justify-center gap-2'>
