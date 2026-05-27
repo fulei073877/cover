@@ -12,7 +12,7 @@ export default function Head({ className }: { className?: string }) {
       <div className={`h-full px-8 flex justify-between items-center ${className}`}>
         <Link className='h-full flex items-center cursor-pointer' href='/'>
           <Image src='/logo.png' alt='logo' width={28} height={28} priority />
-          <div className='text-xl ml-2 font-bold font-mono text-primary'>ThisCover</div>
+          <div className='text-xl ml-2 font-bold font-mono text-primary'>磊记拾微</div>
         </Link>
         <div className='flex-1 flex items-center justify-between'>
           <div className='flex-1 flex items-center'>
