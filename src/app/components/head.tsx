@@ -11,8 +11,8 @@ export default function Head({ className }: { className?: string }) {
     <header className='h-14 fixed border-b top-0 z-40 w-full bg-white shadow-xs'>
       <div className={`h-full px-8 flex justify-between items-center ${className}`}>
         <Link className='h-full flex items-center cursor-pointer' href='/'>
-          <Image src='https://dh.870507.xyz/uploads/2026/5/26/5835cc31d4cf3cf8815f1ae7e2ba746c.png' alt='logo' width={55} height={38} priority />
-          <div className='text-xl ml-2 font-bold font-mono text-primary'>磊记拾微</div>
+          <Image src='https://dh.073877.xyz:88/uploads/2026/6/3/d69c5bde50b5f83c9dc512a0fbd28e89.png' alt='logo' width={55} height={38} priority />
+          <div className='text-xl ml-2 font-bold font-mono text-primary'> </div>
         </Link>
         <div className='flex-1 flex items-center justify-between'>
           <div className='flex-1 flex items-center'>
@@ -20,7 +20,7 @@ export default function Head({ className }: { className?: string }) {
           <div className='h-full flex items-center justify-end'>
             <Button className='rounded-3xl'>
               <a href='https://blog.870507.xyz' target='_blank'>
-                磊记拾微
+                磊记拾微博客
               </a>
             </Button>
           </div>
