@@ -246,7 +246,7 @@ export default function Main() {
         <p>
           Copyright © 2025{new Date().getFullYear() === 2025 ? '' : '-' + new Date().getFullYear()}
           <a className='font-bold text-primary ml-2' target='_blank' href='https://blog.870507.xyz/'>
-            磊记拾微
+            磊记拾微博客
           </a>
         </p>
         <div className='flex flex-wrap items-center justify-center gap-2'>
