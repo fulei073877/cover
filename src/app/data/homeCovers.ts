@@ -5,7 +5,7 @@ export const HomeCovers = [
     preview: 'https://p.weizwz.com/cover/ThisCover_20250817_113149_50f33c9237daf1c6.webp',
     data: {
       title: 'VSCode 接入 DeepSeek V3 大模型',
-      author: '唯知笔记',
+      author: '磊记拾微',
       download: 'png' as const,
       scale: 2,
       icon: { value: 'codicon:vscode-insiders', label: 'vscode-insiders' },
